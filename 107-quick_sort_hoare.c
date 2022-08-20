@@ -81,5 +81,3 @@ void quick_sort_hoare(int *array, size_t size)
 		return;
 	quicksort(array, size, 0, size - 1);
 }
-Footer
-
